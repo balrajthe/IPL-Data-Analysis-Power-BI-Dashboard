@@ -5,7 +5,7 @@
 ![Team Profile](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Team%20Profile.png)
 ![Batter Profile](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Batter%20Profile.png)
 ![Bowler Profile](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Bowler%20Profile.png)
-![Player of Match](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Player%20of%20Match.png)
+![Player of Match](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Player%20of%20the%20Match.png)
 
 
 # IPL Overview and PowerBI Dashboard
