@@ -1,8 +1,12 @@
 # IPL-Power BI-Dashboard
-![Home](https://github.com/kunal15cr/IPL-PowerBI-Dashboard/blob/main/home.png)
-![player profile](https://github.com/kunal15cr/IPL-PowerBI-Dashboard/blob/main/IPL%20overview.png)
-![team profile](https://github.com/kunal15cr/IPL-PowerBI-Dashboard/blob/main/Team%20Profile.png)
-![tool tip](https://github.com/kunal15cr/IPL-PowerBI-Dashboard/blob/main/Tooltip.png)
+![Intro](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Intro%.png))
+![IPL Overview](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/IPL%20Overview%20-1.png))
+![IPL Overview](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/IPL%20Overview%20-2.png))
+![Team Profile](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Team%20Profile.png))
+![Batter Profile](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Batter%20Profile%20-2.png))
+![Bowler Profile](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Bowler%20Profile%20-2.png))
+![Player of Match](https://github.com/balrajthe/IPL-Data-Analysis-Power-BI-Dashboard/blob/main/Player%20of%20Match.png))
+
 
 # IPL Overview and PowerBI Dashboard
 
